@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
+    introTitle: 'Bé Lanh à!',
+    introDesc: `Hôm nay a muốn hỏi bé nà
+    Bé iu a lắm phải hong
+    Có j thì cú thật lòng trả lời nha
+    Ahihi`,
+    btnIntro: 'Dạ iu a lắm',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
+    desc: 'Yêu a mãi nhaaa ',
+    btnYes: 'Dạ vânggggg',
+    btnNo: 'Khum đâu Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com/fb.tvc'
+    reply: 'Vì a là người đặc biệt nhất đối với e á ^^',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều lắmmm 😘😘',
+    messDesc: 'Hãy để ngày kỉ niệm 2 năm của 2 đứa thật đặc biệt nha',
+    btnAccept: 'Dạ ^^',
+    messLink: 'https://www.facebook.com/profile.php?id=100037759968565'
 }
